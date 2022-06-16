@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Application_DotNet</title>
-    <g id="Application_DotNet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <title>dotnet-original</title>
+    <g id="dotnet-original" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="netcore">
             <rect id="Rectangle" fill="#5C2D91" x="0" y="0" width="16" height="16"></rect>
             <path d="M1.97880342,10.4136752 C1.88590755,10.415139 1.79664092,10.3776471 1.73264957,10.3102906 C1.66694096,10.2453732 1.63050163,10.1564968 1.6317265,10.0641368 C1.63106326,9.97188436 1.66741654,9.88321783 1.73264957,9.81798291 C1.79602916,9.7494623 1.88547198,9.71100188 1.97880342,9.71213675 C2.07195157,9.71190886 2.16104548,9.75021924 2.22495726,9.81798291 C2.29133014,9.88264885 2.32863541,9.97147092 2.32834188,10.0641368 C2.32921047,10.1569166 2.29181414,10.2459555 2.22495726,10.3102906 C2.16045515,10.3769036 2.07152599,10.4142538 1.97880342,10.4136752 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
