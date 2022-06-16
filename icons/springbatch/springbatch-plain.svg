@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>springbatch</title>
+    <g id="springbatch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.500000, 0.000000)" fill="#000000">
+            <path d="M0,23.1016043 L0,20.5347594 L15.4010695,29.4331551 L30.802139,20.5347594 L30.802139,23.1016043 L15.4010695,32 L0,23.1016043 Z" id="Combined-Shape"></path>
+            <path d="M0,18.4812834 L0,15.9144385 L15.4010695,24.8128342 L30.802139,15.9144385 L30.802139,18.4812834 L15.4010695,27.3796791 L0,18.4812834 Z" id="Combined-Shape"></path>
+            <path d="M0,13.8609626 L0,8.89839572 L15.4010695,0 L30.802139,8.89839572 L30.802139,13.8609626 L15.4010695,22.7593583 L0,13.8609626 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
