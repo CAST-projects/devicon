@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apachewicket-original</title>
+    <g id="apachewicket-original" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wicket-icon" transform="translate(0.000000, 0.000000)" fill-rule="nonzero">
+            <path d="M15.999785,0 C24.8367256,0 32,7.16327435 32,15.999785 C32,24.8367256 24.8367256,32.0004299 15.999785,32.0004299 C7.16327435,32.0004299 0,24.8367256 0,15.999785 C0,7.16327435 7.16327435,0 15.999785,0" id="Path" fill="#FF9925"></path>
+            <polygon id="Path" fill="#FFFFFF" points="9.99852256 9.99873752 9.99852256 22.0016924 13.9997943 22.0016924 18.0002057 22.0016924 22.0014775 22.0016924 22.0014775 9.99873752 18.0002057 18.0004207 15.999785 13.9995791 13.9997943 18.0004207"></polygon>
+        </g>
+    </g>
+</svg>
