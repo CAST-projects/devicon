@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mybatis-original</title>
+    <defs>
+        <linearGradient x1="0%" y1="26.1465608%" x2="48.7172329%" y2="48.6626366%" id="linearGradient-1">
+            <stop stop-color="#030303" offset="0%"></stop>
+            <stop stop-color="#281F1F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.0566634%" y1="28.784729%" x2="10.0651906%" y2="70.8330336%" id="linearGradient-2">
+            <stop stop-color="#483939" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.06396015%" y1="40.2120945%" x2="97.5443844%" y2="60.1707052%" id="linearGradient-3">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#5B4747" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mybatis-original" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 9.000000)">
+            <path d="M90.5,47.5 C116,56.5 131,78.5 112.5,86 C101.948595,90.2775967 69.576194,75.7592372 53,59 C48.1879798,54.1348429 45.3546465,46.3015096 44.5,35.5 C60.5,41.5 75.8333333,45.5 90.5,47.5 Z" id="Triangle-2-Copy" fill="url(#linearGradient-1)"></path>
+            <path d="M81.5,148.5 C136.5,148.5 158,101 162,64 C163,51.5 156,21.5 126,21.5 C90,21.5 91,38.5 79.5,48 C71.4726869,54.6312586 66,66.5 43.5,88.5 C36.0008537,95.8324986 24,103.5 0,113 C10,126 26.5,148.5 81.5,148.5 Z" id="Oval" fill="url(#linearGradient-2)"></path>
+            <path d="M58.5,56 C106.5,60.5 103.5,91 85,98.5 C74.4485948,102.777597 55.5,98.5 38,82.5 C27.6666667,69.8333333 21.8333333,59.5 20.5,51.5 C20.8333333,52.1666667 33.5,53.6666667 58.5,56 Z" id="Triangle-2" fill="url(#linearGradient-3)"></path>
+            <polygon id="Triangle" fill="#433535" points="162 58 173.5 61.5 162 64"></polygon>
+            <polygon id="Triangle-Copy" fill="#443636" transform="translate(165.216783, 67.042033) rotate(11.000000) translate(-165.216783, -67.042033) " points="159.466783 64.0420333 170.966783 67.5420333 159.466783 70.0420333"></polygon>
+            <path d="M26.5,14 C31,12 30.1233904,9.3999185 32,10.5 C36,16.5 34,19 41,22.5 C51,18.5 54.6528771,16.2052695 66,16.5 C73.9028771,16.7052695 76.3421147,23.7745987 79.5,23.5 C79.5,19 77.5,19 77.5,15.5 C72.8698755,12.7990941 70.5,14 61.5,13 C57,10.5 58,9 55,4 C61.5,1 59.5,2 61.5,0 C63,5 63.5,5.5 65,9 C73,9 77,11.5 84.5,13 C84.5,25 83.5,21.5 88.5,35 C135.5,39.5 103.5,35.9585628 156.5,39.5 C161.5,52 163,53 161.5,69 C151.089625,74.8485251 129.949642,71.9029598 112,64.5 C85.6996424,53.6529598 87.5,54 76.5,39.5 C74.5,30 73,28.5 72,25 C68.6956143,22.3075376 65.8617401,21.21083 59.5,21.5 C49.3617401,21.96083 53,23.5 39,26.5 C30.5,26.5 29.1519519,20.0616043 26.5,14 Z" id="Path-2" fill="#D40000"></path>
+            <ellipse id="Oval-2" fill="#FFFFFF" transform="translate(144.088266, 55.483167) rotate(18.000000) translate(-144.088266, -55.483167) " cx="144.088266" cy="55.4831673" rx="11" ry="8.5"></ellipse>
+            <ellipse id="Oval-2-Copy" fill="#000000" transform="translate(146.993978, 55.756609) rotate(18.000000) translate(-146.993978, -55.756609) " cx="146.993978" cy="55.7566093" rx="7.52751274" ry="6.29305395"></ellipse>
+            <circle id="Oval-3" fill="#FFFFFF" cx="150.5" cy="53.5" r="2.5"></circle>
+            <polygon id="Path-3" fill="#000000" points="142 41.5 139 43 154.5 53 157 51"></polygon>
+        </g>
+    </g>
+</svg>
