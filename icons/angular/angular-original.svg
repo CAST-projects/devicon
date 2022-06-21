@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>angular</title>
+    <g id="angular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)">
+            <path d="M15.1611625,2.6591303 L27.6758101,7.18256095 L25.6362498,23.7990068 L15.1608164,29.2599135 L4.72774019,23.8026352 L2.72005437,7.18039024 L15.1611625,2.6591303 Z" id="Rectangle" stroke="#E42A3A" stroke-width="5" fill="#E42A3A"></path>
+            <path d="M15.2,4.32 L24.8,24 L20.815,23.999 L19.215166,19.68 L11.1852872,19.68 L9.694,23.999 L5.6,24 L15.2,4.32 Z M15.2,11.04 L12.32,16.8 L18.08,16.8 L15.2,11.04 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <polygon id="Rectangle-Copy" fill-opacity="0.219999999" fill="#000000" points="15.2 0 30.4 5.4940537 27.9640826 25.3396499 15.2 31.9936432"></polygon>
+        </g>
+    </g>
+</svg>
