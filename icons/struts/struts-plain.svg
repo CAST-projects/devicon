@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="290px" viewBox="0 0 256 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>struts-plain</title>
+    <g id="struts-plain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="struts-original" fill="#000000" fill-rule="nonzero">
+            <polygon id="Path" points="0 212.528302 0 169.056604 130.415094 246.339623 130.415094 289.811321"></polygon>
+            <polygon id="Path" points="0 77.2830189 0 101.433962 130.415094 178.716981 130.415094 154.566038"></polygon>
+            <polygon id="Path" points="256 212.528302 256 188.377358 150.218868 142.490566 130.415094 154.566038 130.415094 178.233962 194.656604 206.732075 130.415094 246.339623 130.415094 289.811321"></polygon>
+            <polygon id="Path" points="194.656604 206.732075 186.928302 203.833962 130.415094 236.679245 9.66037736 169.056604 9.66037736 163.260377 0 169.056604 130.415094 246.339623"></polygon>
+            <polygon id="Path" points="56.9962264 86.9433962 130.415094 43.4716981 207.698113 91.7735849 246.339623 71.4867925 130.415094 0 0 77.2830189 130.415094 154.566038 150.218868 142.490566"></polygon>
+            <polygon id="Path" points="207.215094 100.467925 207.698113 91.7735849 130.415094 43.4716981 56.9962264 86.9433962 65.2075472 91.7735849 130.415094 53.1320755"></polygon>
+        </g>
+        <polygon id="Rectangle" fill="#000000" points="207.5 92 246.5 71.5 246.5 78.5 207.5 100.5"></polygon>
+    </g>
+</svg>
