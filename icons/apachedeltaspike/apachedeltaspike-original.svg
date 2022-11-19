@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="134.51746mm"
+   height="83.736786mm"
+   viewBox="0 0 134.51746 83.736786"
+   version="1.1"
+   id="svg8649"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="deltaspike.svg">
+  <defs
+     id="defs8643" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="435.50408"
+     inkscape:cy="161.69109"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3726"
+     inkscape:window-height="2049"
+     inkscape:window-x="114"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8646">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.741273,-44.868407)">
+    <g
+       id="g9253"
+       transform="translate(-74.084666,-33.367774)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.63049316px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53201795px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.190441"
+       y="128.51741"
+       id="text9248"><tspan
+         sodipodi:role="line"
+         id="tspan9246"
+         x="36.190441"
+         y="128.51741"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';letter-spacing:5.32017946px;stroke-width:0.53201795px">DELTASPIKE</tspan></text>
+    <g
+       id="g9277"
+       transform="translate(223.88861,12.962572)">
+      <path
+         transform="scale(0.26458333)"
+         id="path9224"
+         d="m -449.34375,120.58984 -125.59961,239.41993 h 251.20117 z m 0,34.41407 98.32617,187.42968 h -196.65039 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.77677393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cscccsc"
+         inkscape:connector-curvature="0"
+         id="path9255"
+         d="m -118.88864,31.905835 c 0,0 -1.5503,16.23873 -4.34901,41.27965 -1.98914,17.7975 -12.45031,21.44702 -18.33876,22.07101 l 22.68777,-0.0537 22.687207,0.0537 c -5.888517,-0.62412 -16.349087,-4.27392 -18.338187,-22.07101 -2.79871,-25.04092 -4.34902,-41.27965 -4.34902,-41.27965 z"
+         style="fill:#35b5e4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.27711323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
