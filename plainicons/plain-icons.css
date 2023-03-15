@@ -1,0 +1,585 @@
+.svg_aarch64-plain,
+.svg_abap-plain,
+.svg_adonisjs-plain,
+.svg_aftereffects-plain,
+.svg_amazonwebservices-plain,
+.svg_android-plain,
+.svg_androidstudio-plain,
+.svg_angularjs-plain,
+.svg_ansible-plain,
+.svg_apachecamel-plain,
+.svg_apachecassandra-plain,
+.svg_apachekafka-plain,
+.svg_appcelerator-plain,
+.svg_apple-plain,
+.svg_appwrite-plain,
+.svg_argocd-plain,
+.svg_arduino-plain,
+.svg_atom-plain,
+.svg_azure-plain,
+.svg_babel-plain,
+.svg_bamboo-plain,
+.svg_backbonejs-plain,
+.svg_bash-plain,
+.svg_behance-plain,
+.svg_bootstrap-plain,
+.svg_bower-plain,
+.svg_bulma-plain,
+.svg_c-plain,
+.svg_cakephp-plain,
+.svg_canva-plain,
+.svg_centos-plain,
+.svg_ceylon-plain,
+.svg_chrome-plain,
+.svg_circleci-plain,
+.svg_clojurescript-plain,
+.svg_clojure-plain,
+.svg_codecov-plain,
+.svg_cmake-plain,
+.svg_codeigniter-plain,
+.svg_coffeescript-plain,
+.svg_codepen-plain,
+.svg_couchdb-plain,
+.svg_cplusplus-plain,
+.svg_csharp-plain,
+.svg_css3-plain,
+.svg_cucumber-plain,
+.svg_d3js-plain,
+.svg_dart-plain,
+.svg_debian-plain,
+.svg_devicon-plain,
+.svg_digitalocean-plain,
+.svg_discordjs-plain,
+.svg_django-plain,
+.svg_docker-plain,
+.svg_doctrine-plain,
+.svg_dojo-plain,
+.svg_dot-net-plain,
+.svg_dotnetcore-plain,
+.svg_dropwizard-plain,
+.svg_drupal-plain,
+.svg_electron-plain,
+.svg_elixir-plain,
+.svg_eleventy-plain,
+.svg_elm-plain,
+.svg_embeddedc-plain,
+.svg_erlang-plain,
+.svg_ember-plain,
+.svg_eslint-plain,
+.svg_express-plain,
+.svg_facebook-plain,
+.svg_fastapi-plain,
+.svg_feathersjs-plain,
+.svg_fedora-plain,
+.svg_figma-plain,
+.svg_filezilla-plain,
+.svg_firefox-plain,
+.svg_firebase-plain,
+.svg_flask-plain,
+.svg_flutter-plain,
+.svg_foundation-plain,
+.svg_fsharp-plain,
+.svg_gatling-plain,
+.svg_gatsby-plain,
+.svg_gcc-plain,
+.svg_gentoo-plain,
+.svg_github-plain,
+.svg_gitlab-plain,
+.svg_gimp-plain,
+.svg_git-plain,
+.svg_gitter-plain,
+.svg_go-plain,
+.svg_google-plain,
+.svg_googlecloud-plain,
+.svg_godot-plain,
+.svg_gradle-plain,
+.svg_grafana-plain,
+.svg_grails-plain,
+.svg_graphql-plain,
+.svg_grunt-plain,
+.svg_gulp-plain,
+.svg_handlebars-plain,
+.svg_hapi-plain,
+.svg_haskell-plain,
+.svg_haxe-plain,
+.svg_heroku-plain,
+.svg_html5-plain,
+.svg_hugo-plain,
+.svg_illustrator-plain,
+.svg_inkscape-plain,
+.svg_ionic-plain,
+.svg_intellij-plain,
+.svg_jasmine-plain,
+.svg_java-plain,
+.svg_jade-plain,
+.svg_jamstack-plain,
+.svg_javascript-plain,
+.svg_jeet-plain,
+.svg_jenkins-plain,
+.svg_jest-plain,
+.svg_jetbrains-plain,
+.svg_jira-plain,
+.svg_jquery-plain,
+.svg_julia-plain,
+.svg_jupyter-plain,
+.svg_karma-plain,
+.svg_koa-plain,
+.svg_kotlin-plain,
+.svg_krakenjs-plain,
+.svg_kubernetes-plain,
+.svg_labview-plain,
+.svg_laravel-plain,
+.svg_less-plain,
+.svg_linkedin-plain,
+.svg_linux-plain,
+.svg_lua-plain,
+.svg_mariadb-plain,
+.svg_markdown-plain,
+.svg_materialui-plain,
+.svg_matlab-plain,
+.svg_maya-plain,
+.svg_memcached-plain,
+.svg_meteor-plain,
+.svg_microsoftsqlserver-plain,
+.svg_minitab-plain,
+.svg_mocha-plain,
+.svg_modx-plain,
+.svg_mongodb-plain,
+.svg_moodle-plain,
+.svg_msdos-plain,
+.svg_mysql-plain,
+.svg_neo4j-plain,
+.svg_nestjs-plain,
+.svg_nhibernate-plain,
+.svg_nixos-plain,
+.svg_nodejs-plain,
+.svg_nodewebkit-plain,
+.svg_npm-plain,
+.svg_numpy-plain,
+.svg_nuxtjs-plain,
+.svg_ocaml-plain,
+.svg_objectivec-plain,
+.svg_openal-plain,
+.svg_opencv-plain,
+.svg_opengl-plain,
+.svg_opera-plain,
+.svg_oracle-plain,
+.svg_packer-plain,
+.svg_perl-plain,
+.svg_phalcon-plain,
+.svg_photoshop-plain,
+.svg_phoenix-plain,
+.svg_php-plain,
+.svg_phpstorm-plain,
+.svg_podman-plain,
+.svg_polygon-plain,
+.svg_premierepro-plain,
+.svg_postgresql-plain,
+.svg_processing-plain,
+.svg_protractor-plain,
+.svg_pug-plain,
+.svg_putty-plain,
+.svg_pycharm-plain,
+.svg_pytest-plain,
+.svg_python-plain,
+.svg_r-plain,
+.svg_rails-plain,
+.svg_rect-plain,
+.svg_redhat-plain,
+.svg_react-plain,
+.svg_redux-plain,
+.svg_redis-plain,
+.svg_resteasy-plain,
+.svg_rocksdb-plain,
+.svg_rspec-plain,
+.svg_rstudio-plain,
+.svg_rubymine-plain,
+.svg_ruby-plain,
+.svg_sails-plain,
+.svg_rust-plain,
+.svg_safari-plain,
+.svg_salesforce-plain,
+.svg_sap-plain,
+.svg_sass-plain,
+.svg_scala-plain,
+.svg_sdl-plain,
+.svg_sequelize-plain,
+.svg_shotgrid-plain,
+.svg_slack-plain,
+.svg_socketio-plain,
+.svg_solidity-plain,
+.svg_sourcetree-plain,
+.svg_spring-plain,
+.svg_spss-plain,
+.svg_sqlalchemy-plain,
+.svg_sqlite-plain,
+.svg_ssh-plain,
+.svg_storybook-plain,
+.svg_subversion-plain,
+.svg_svelte-plain,
+.svg_swift-plain,
+.svg_symfony-plain,
+.svg_tailwindcss-plain,
+.svg_tensorflow-plain,
+.svg_terraform-plain,
+.svg_thealgorithms-plain,
+.svg_threejs-plain,
+.svg_tomcat-plain,
+.svg_tortoisegit-plain,
+.svg_towergit-plain,
+.svg_travis-plain,
+.svg_trello-plain,
+.svg_typescript-plain,
+.svg_typo3-plain,
+.svg_unity-plain,
+.svg_ubuntu-plain,
+.svg_uwsgi-plain,
+.svg_vagrant-plain,
+.svg_vim-plain,
+.svg_visualstudio-plain,
+.svg_vscode-plain,
+.svg_vuejs-plain,
+.svg_vuestorefront-plain,
+.svg_vuetify-plain,
+.svg_webflow-plain,
+.svg_weblate-plain,
+.svg_webpack-plain,
+.svg_webstorm-plain,
+.svg_windows8-plain,
+.svg_woocommerce-plain,
+.svg_wordpress-plain,
+.svg_xd-plain,
+.svg_xcode-plain,
+.svg_xamarin-plain,
+.svg_yarn-plain,
+.svg_yii-plain,
+.svg_yunohost-plain,
+.svg_zend-plain,
+.svg_zig-plain {
+  width: 128px;
+  height: 128px;
+}
+.svg_activemq-plain {
+  width: 49.203px;
+  height: 71.203px;
+}
+.svg_alibabacloud-plain {
+  width: 65px;
+  height: 41px;
+}
+.svg_apache-plain,
+.svg_angular-plain,
+.svg_apachewicket-plain,
+.svg_aspdotnetmvc-plain,
+.svg_aspnet-plain,
+.svg_aspnetcore-plain,
+.svg_dotnetentity-plain,
+.svg_dotnetlinq-plain,
+.svg_eclipse-plain,
+.svg_ehcache-plain,
+.svg_ejb-plain,
+.svg_ibmcics-plain,
+.svg_ibmcobol-plain,
+.svg_ibmdb2-plain,
+.svg_ibmegl-plain,
+.svg_ibmims-plain,
+.svg_ibmimsdc-plain,
+.svg_ibmimsdb-plain,
+.svg_ibminformix-plain,
+.svg_ibmmainframe-plain,
+.svg_ibmjcl-plain,
+.svg_ibmmq-plain,
+.svg_ibmpl1-plain,
+.svg_ibmrpg-plain,
+.svg_jpa-plain,
+.svg_jsf-plain,
+.svg_jsp-plain,
+.svg_oracleforms-plain,
+.svg_springbatch-plain,
+.svg_springboot-plain,
+.svg_springcloud-plain,
+.svg_swing-plain,
+.svg_vbnet-plain {
+  width: 32px;
+  height: 32px;
+}
+.svg_apacheant-plain {
+  width: 1200px;
+  height: 800px;
+}
+.svg_apacheapex-plain,
+.svg_mulesoft-plain {
+  width: 66px;
+  height: 65px;
+}
+.svg_apacheavro-plain {
+  width: 66px;
+  height: 21px;
+}
+.svg_apachecayenne-plain {
+  width: 162.38px;
+  height: 28.5px;
+}
+.svg_apachecordova-plain {
+  width: 2500px;
+  height: 2393px;
+}
+.svg_apachehbase-plain {
+  width: 2500px;
+  height: 1973px;
+}
+.svg_apachehive-plain,
+.svg_apachejmeter-plain,
+.svg_apachekylin-plain,
+.svg_apachemaven-plain,
+.svg_apachenetbean-plain,
+.svg_apacherocketmq-plain,
+.svg_apachespark-plain,
+.svg_elasticsearch-plain,
+.svg_gcpapigateway-plain,
+.svg_gcpbigquery-plain,
+.svg_gcpbigtable-plain,
+.svg_gcpfunctions-plain,
+.svg_gcpidentity-plain,
+.svg_gcppubsub-plain,
+.svg_gcpstorage-plain,
+.svg_groovy-plain,
+.svg_mapbox-plain,
+.svg_undefined-plain {
+  width: 24px;
+  height: 24px;
+}
+.svg_apachejackrabbit-plain {
+  width: 17px;
+  height: 17px;
+}
+.svg_apachekaraf-plain {
+  width: 51px;
+  height: 55px;
+}
+.svg_apachemyfaces-plain,
+.svg_kendoui-plain {
+  width: 60px;
+  height: 60px;
+}
+.svg_apacheroyale-plain {
+  width: 65.988px;
+  height: 40.988px;
+}
+.svg_apachesolr-plain {
+  width: 73.765px;
+  height: 74.765px;
+}
+.svg_apachezookeeper-plain {
+  width: 48px;
+  height: 65px;
+}
+.svg_asp-plain,
+.svg_dapper-plain,
+.svg_dotnetado-plain,
+.svg_drools-plain,
+.svg_dotnetwcf-plain,
+.svg_dotnetwpf-plain,
+.svg_dwr-plain,
+.svg_ibmdq-plain,
+.svg_openzipkin-plain,
+.svg_paypal-plain,
+.svg_projectreactor-plain,
+.svg_sapbo-plain,
+.svg_signalr-plain,
+.svg_wcf-plain,
+.svg_wpf-plain {
+  width: 100%;
+  height: 100%;
+}
+.svg_aspose-plain {
+  width: 65px;
+  height: 65px;
+}
+.svg_authy-plain {
+  width: 84.53px;
+  height: 83.53px;
+}
+.svg_autofac-plain {
+  width: 219px;
+  height: 42px;
+}
+.svg_automapper-plain {
+  width: 42px;
+  height: 42px;
+}
+.svg_awscognito-plain,
+.svg_awslambdahandler-plain {
+  width: 100px;
+  height: 100px;
+}
+.svg_azureeventhub-plain {
+  width: 18px;
+  height: 18px;
+}
+.svg_azurefunction-plain {
+  width: 91px;
+  height: 81px;
+}
+.svg_batch-services-plain,
+.svg_bi-services-plain,
+.svg_business-process-services-plain,
+.svg_business-logic-plain,
+.svg_coldfusion-plain,
+.svg_communication-plain,
+.svg_communication-services-plain,
+.svg_coordination-plain,
+.svg_data-services-plain,
+.svg_database-services-plain,
+.svg_datafile-services-plain,
+.svg_dataset-storage-plain,
+.svg_exposed-api-plain,
+.svg_file-storage-plain,
+.svg_hierarchical-db-services-plain,
+.svg_inmemory-services-plain,
+.svg_logic-services-plain,
+.svg_messaging-services-plain,
+.svg_mobile-data-access-plain,
+.svg_mobile-interaction-plain,
+.svg_mobile-presentation-plain,
+.svg_monitoring-services-plain,
+.svg_networkmodel-db-services-plain,
+.svg_nosql-services-plain,
+.svg_output-services-plain,
+.svg_rdbms-services-plain,
+.svg_reporting-services-plain,
+.svg_rich-client-presentation-plain,
+.svg_screen-interaction-plain,
+.svg_script-batch-interfaces-plain,
+.svg_services-plain,
+.svg_system-interaction-plain,
+.svg_terminal-presentation-plain,
+.svg_transaction-plain,
+.svg_transactional-services-plain,
+.svg_user-interaction-plain,
+.svg_web-interaction-plain,
+.svg_web-presentation-plain {
+  width: 512px;
+  height: 512px;
+}
+.svg_cloud-services-plain {
+  width: 42.3px;
+  height: 29.3px;
+}
+.svg_cognos-plain {
+  width: 656px;
+  height: 150px;
+}
+.svg_couchbase-plain {
+  width: 2500px;
+  height: 2500px;
+}
+.svg_dotnet-plain {
+  width: 16px;
+  height: 16px;
+}
+.svg_graphcool-plain {
+  width: 57px;
+  height: 66px;
+}
+.svg_grpc-plain {
+  width: 352px;
+  height: 144px;
+}
+.svg_halkyon-plain {
+  width: 1024px;
+  height: 1024px;
+}
+.svg_hibernate-plain {
+  width: 2397px;
+  height: 2500px;
+}
+.svg_ibm-plain {
+  width: 1000px;
+  height: 1000px;
+}
+.svg_jboss-plain {
+  width: 1024px;
+  height: 598px;
+}
+.svg_jersey-plain,
+.svg_sql-plain {
+  width: 28px;
+  height: 28px;
+}
+.svg_jwt-plain {
+  width: 101px;
+  height: 101px;
+}
+.svg_liferay-plain {
+  width: 652px;
+  height: 652px;
+}
+.svg_logofx-plain {
+  width: 96px;
+  height: 26px;
+}
+.svg_micrometer-plain {
+  width: 189.10574px;
+  height: 189.10738px;
+}
+.svg_modernizr-plain {
+  width: 256px;
+  height: 256px;
+}
+.svg_mustache-plain {
+  width: 31px;
+  height: 31px;
+}
+.svg_mybatis-plain {
+  width: 174px;
+  height: 174px;
+}
+.svg_nginx-plain {
+  width: 58px;
+  height: 66px;
+}
+.svg_nlog-plain {
+  width: 30px;
+  height: 30px;
+}
+.svg_opensuse-plain {
+  width: 128px;
+  height: 82px;
+}
+.svg_opentracing-plain {
+  width: 64px;
+  height: 64px;
+}
+.svg_puppet-plain {
+  width: 43px;
+  height: 65px;
+}
+.svg_rabbitmq-plain {
+  width: 62px;
+  height: 65px;
+}
+.svg_restsharp-plain {
+  width: 400px;
+  height: 400px;
+}
+.svg_servicenow-plain {
+  width: 66px;
+  height: 59px;
+}
+.svg_struts-plain {
+  width: 256px;
+  height: 290px;
+}
+.svg_swagger-plain {
+  width: 1em;
+  height: 1em;
+}
+.svg_telerik-plain {
+  width: 220px;
+  height: 220px;
+}
+.svg_vaadin-plain {
+  width: 77.27px;
+  height: 73.82px;
+}
