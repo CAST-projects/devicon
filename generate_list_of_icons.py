@@ -7,6 +7,8 @@ os.remove(folder_path+"/list.json")
 
 folder_contents = os.listdir(folder_path)
 folder_contents.sort()
+
+folder_contents.remove(".DS_Store")
 # listdir() method returns a list of all files and folders in the given folder_path
 
 json_output = json.dumps({"allicons":folder_contents})
