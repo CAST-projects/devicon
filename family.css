@@ -1,0 +1,92 @@
+.svg_APIGateway,
+.svg_AWSLambdaFunction,
+.svg_Authentication,
+.svg_Book,
+.svg_Bucket,
+.svg_ConstraintPrimary,
+.svg_Division,
+.svg_Folder,
+.svg_ForeignKey,
+.svg_Index,
+.svg_Lambda,
+.svg_Macro,
+.svg_Namespace,
+.svg_Paragraph,
+.svg_Program,
+.svg_QueueCall,
+.svg_QueueReceive,
+.svg_Region,
+.svg_Section,
+.svg_UniqueKey {
+  width: 16px;
+  height: 16px;
+}
+.svg_AWSLambdaFunctionInvokeBlack,
+.svg_AWSLambdaInvokeFunctionBlack {
+  width: 42px;
+  height: 42px;
+}
+.svg_Alias,
+.svg_Beans,
+.svg_CallToJavaBean,
+.svg_CallToJavaProgram,
+.svg_CallToProgram,
+.svg_Category,
+.svg_Class,
+.svg_Condition,
+.svg_Constructor,
+.svg_Cursor,
+.svg_DataBlock,
+.svg_DataModule,
+.svg_DataSet,
+.svg_Database,
+.svg_DatabaseConnection,
+.svg_DatabaseView,
+.svg_Destructor,
+.svg_EnumItem,
+.svg_Enumeration,
+.svg_EventHandler,
+.svg_File,
+.svg_Form,
+.svg_Function,
+.svg_List,
+.svg_ListBean,
+.svg_LocalStorage,
+.svg_Package,
+.svg_Procedure,
+.svg_Process,
+.svg_PropertyGetter,
+.svg_PropertySetter,
+.svg_Queue,
+.svg_Receive,
+.svg_ResourceServiceDelete,
+.svg_ResourceServiceGet,
+.svg_ResourceServicePost,
+.svg_ResourceServicePut,
+.svg_RouteFrom,
+.svg_RouteTo,
+.svg_SQLNamedQuery,
+.svg_Schema,
+.svg_Service,
+.svg_Synonym,
+.svg_TableColumn,
+.svg_Trigger,
+.svg_UIButton,
+.svg_UITextField,
+.svg_UIView,
+.svg_Variable,
+.svg_WebService {
+  width: 32px;
+  height: 32px;
+}
+.svg_AzureFunction,
+.svg_AzureFunctionInvoke {
+  width: 92px;
+  height: 92px;
+}
+.svg_CallToSignalR,
+.svg_SignalR,
+.svg_Table {
+  width: 100%;
+  height: 100%;
+}
