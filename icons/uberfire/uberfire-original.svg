@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M55.101 50.8228L84.1894 50.8254L55.101 79.6461L55.101 50.8228Z" fill="#f9cc56" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M55.101 21.9928L98.8663 21.9951L55.101 65.5428L55.101 21.9928Z" fill="#f9cc56" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M55.101 50.8228L70.0956 50.8241L55.101 65.6808L55.101 50.8228Z" fill="#f0a708" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M2.10103 22.0553L2.10103 58.8678L2.25728 58.8678C2.24982 59.1112 2.19478 59.3413 2.19478 59.5865C2.19478 72.5652 12.7161 83.0865 25.6948 83.0865C38.6735 83.0865 49.1948 72.5652 49.1948 59.5865C49.1948 59.2663 49.1137 58.9662 49.101 58.649L49.101 22.0553L2.10103 22.0553Z" fill="#ff5b30" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</svg>
