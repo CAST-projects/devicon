@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="springthymleaf" vectornator:layerName="springthymleaf">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M0 0L31.791 0L31.791 31.8445L0 31.8445L0 0Z" fill="#005f0f" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="rect4303"/>
+<path d="M20.0823 24.6447C20.0816 24.6479 20.0809 24.651 20.0803 24.6542" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path4305"/>
+<path d="M27.0952 4.34203C23.1799 9.13972 18.3984 13.1581 13.2992 16.6415C11.6416 17.8281 9.81156 18.8842 8.53713 20.5091C8.05038 21.3643 7.93292 22.5686 8.76512 23.2625C10.1511 24.5686 12.3098 24.8527 14.0461 24.1215C16.4769 23.1957 18.1557 21.0881 19.5669 18.999C22.7161 14.4621 24.6258 9.24376 27.0952 4.34203Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path4307"/>
+<path d="M24.8496 6.00107C19.9749 9.8634 16.0758 11.9508 11.0905 13.7463C9.58587 14.3901 7.97337 15.2072 7.27438 16.787C6.55472 18.2816 6.79058 20.3659 7.61616 21.7498C7.55439 21.1672 7.86563 20.226 8.32867 19.7841C9.86517 18.073 11.8665 16.9519 13.6268 15.6526L13.631 15.649L13.6352 15.6462C17.7092 12.8483 21.5286 9.65117 24.8496 6.00107Z" fill="#aea99f" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path4309"/>
+</g>
+</g>
+</svg>
