@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Table">
+<path d="M1 1L7 1L7 7L1 7L1 1Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M8 2L31 2L31 7L8 7L8 2Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1 9L7 9L7 15L1 15L1 9Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M8 10L31 10L31 15L8 15L8 10Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1 17L7 17L7 23L1 23L1 17Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M8 18L31 18L31 23L8 23L8 18Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M1 25L7 25L7 31L1 31L1 25Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M8 26L31 26L31 31L8 31L8 26Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</svg>

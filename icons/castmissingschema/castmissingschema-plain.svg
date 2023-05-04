@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Schema</title>
+    <g id="Schema" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,0 L32,32 L0,32 L0,0 L32,0 Z M15.5,26 L23,26 L23,28 L29,28 L29,22 L26.5,22 L26.5,18 L29,18 L29,12 L23,12 L23,15 L19,15 L19,12 L16.5,12 L16.5,8 L19,8 L19,2 L13,2 L13,8 L15.5,8 L15.5,12 L13,12 L13,15 L9,15 L9,12 L3,12 L3,18 L5.5,18 L5.5,22 L3,22 L3,28 L9,28 L9,22 L6.5,22 L6.5,18 L9,18 L9,16 L13,16 L13,18 L15.5,18 L15.5,26 Z M16.5,25 L16.5,18 L19,18 L19,16 L23,16 L23,18 L25.5,18 L25.5,22 L23,22 L23,25 L16.5,25 Z" id="Rectangle-7-Copy-12" fill="#000000"></path>
+    </g>
+</svg>
