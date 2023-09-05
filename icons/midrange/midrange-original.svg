@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="IBM-Mainframe" vectornator:layerName="IBM Mainframe">
+<g opacity="1" vectornator:layerName="Group">
+<path d="M2 0L30 0C31.1046 0 32 0.895431 32 2L32 30C32 31.1046 31.1046 32 30 32L2 32C0.895431 32 0 31.1046 0 30L0 2C0 0.895431 0.895431 0 2 0Z" fill="#31096d" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="Rectangle 2"/>
+</g>
+<path d="M10.3125 7L10.3125 9.15625L10.3125 23.5312L10.3125 25L22.4375 25L22.4375 24.7188L22.4375 24.375L22.4375 9.15625L22.4375 8.46875L22.4375 7L10.3125 7ZM3.375 9.96875L3.375 23.5312L9.8125 23.5312L9.8125 17.5938L5.625 17.5938L5.625 16.125L9.8125 16.125L9.8125 14.4062L5.625 14.4062L5.625 12.9062L9.8125 12.9062L9.8125 9.96875L3.375 9.96875ZM13.2812 9.96875L19.2188 9.96875L19.2188 11.4375L13.2812 11.4375L13.2812 9.96875ZM22.875 9.96875L22.875 12.9062L26.9062 12.9062L26.9062 14.4062L22.875 14.4062L22.875 16.125L26.9062 16.125L26.9062 17.5938L22.875 17.5938L22.875 23.5312L29.375 23.5312L29.375 9.96875L22.875 9.96875ZM13.2812 12.9062L19.2188 12.9062L19.2188 14.4062L13.2812 14.4062L13.2812 12.9062ZM13.2812 16.125L19.2188 16.125L19.2188 17.5938L13.2812 17.5938L13.2812 16.125Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 1"/>
+</g>
+</svg>
