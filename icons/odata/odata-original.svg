@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 150 150" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-2" vectornator:layerName="Layer 2">
+<path d="M0 0L150 0L150 150L0 150L0 0Z" fill="#fe8e05" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 8"/>
+<path d="M14.211 14.0235L68.6994 14.0235L68.6994 27.3478L14.211 27.3478L14.211 14.0235Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 1"/>
+<path d="M82.2432 14.0235L136.732 14.0235L136.732 27.3478L82.2432 27.3478L82.2432 14.0235Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 2"/>
+<path d="M14.2397 41.3197L68.7281 41.3197L68.7281 54.6441L14.2397 54.6441L14.2397 41.3197Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 3"/>
+<path d="M82.2719 41.3197L136.76 41.3197L136.76 54.6441L82.2719 54.6441L82.2719 41.3197Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 4"/>
+<path d="M14.2685 68.616L68.7568 68.616L68.7568 81.9403L14.2685 81.9403L14.2685 68.616Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 5"/>
+<path d="M82.3006 68.616L136.789 68.616L136.789 81.9403L82.3006 81.9403L82.3006 68.616Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 6"/>
+<path d="M82.3006 95.2849L136.789 95.2849L136.789 108.609L82.3006 108.609L82.3006 95.2849Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 7"/>
+<path d="M16.8028 116.034C16.8028 102.418 27.84 91.3812 41.4552 91.3812C55.0703 91.3812 66.1076 102.418 66.1076 116.034C66.1076 129.649 55.0703 140.686 41.4552 140.686C27.84 140.686 16.8028 129.649 16.8028 116.034Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Oval 1"/>
+</g>
+</svg>
