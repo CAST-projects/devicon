@@ -1,4 +1,9 @@
-<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="220" height="220" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15 66.9974L62.4674 20L110.405 68.4073L158.342 20L205.339 66.9974L187.01 85.7963L158.342 57.5979L128.734 86.7363L176.671 134.204L110.405 200L44.6084 134.204L92.5457 86.2663L62.9373 57.1279L33.799 85.3264L15 66.9974ZM110.405 105.065L81.2663 134.204L110.405 163.812L139.543 134.204L110.405 105.065Z" fill="#000000"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 220 220" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled" vectornator:layerName="Untitled">
+<path d="M15 66.9974L62.4674 20L110.405 68.4073L158.342 20L205.339 66.9974L187.01 85.7963L158.342 57.5979L128.734 86.7363L176.671 134.204L110.405 200L44.6084 134.204L92.5457 86.2663L62.9373 57.1279L33.799 85.3264L15 66.9974ZM110.405 105.065L81.2663 134.204L110.405 163.812L139.543 134.204L110.405 105.065Z" fill="#000000" fill-rule="evenodd" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
 </svg>
