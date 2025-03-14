@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Package</title>
+    <g id="Package" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill="#990000" points="15.2 16.7356364 3.2 9 3.2 23.6116364 15.2 30.4876364"></polygon>
+        <polygon id="Shape" fill="#CC0000" points="4 7.72763636 16 1 28 7.72654545 16 15.4632727"></polygon>
+        <polygon id="Shape" fill="#EE0000" points="16.6 30.49 28.6 23.6135928 28.6 9 16.6 16.7360945"></polygon>
+    </g>
+</svg>
