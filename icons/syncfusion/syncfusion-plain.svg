@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="400.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 400 400" width="400.0pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1">
+<g opacity="1">
+<path d="M0 0C200 0 200 0 400 0C400 200 400 200 400 400C200 400 200 400 0 400C0 200 0 200 0 0Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M103 249C130.5 249 130.5 249 158 249C158 276.5 158 276.5 158 304C130.5 304 130.5 304 103 304C103 276.5 103 276.5 103 249Z" fill="#fffcf9" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M103 184C130.5 184 130.5 184 158 184C158 211.5 158 211.5 158 239C130.5 239 130.5 239 103 239C103 211.5 103 211.5 103 184Z" fill="#fffcfa" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M103 119C130.5 119 130.5 119 158 119C158 146.5 158 146.5 158 174C130.5 174 130.5 174 103 174C103 146.5 103 146.5 103 119Z" fill="#fffcfa" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M233 184C260 184 260 184 287 184C287 211.5 287 211.5 287 239C260 239 260 239 233 239C233 211.5 233 211.5 233 184Z" fill="#fffdfc" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M168 184C195 184 195 184 222 184C222 211.5 222 211.5 222 239C195 239 195 239 168 239C168 211.5 168 211.5 168 184Z" fill="#fffdfc" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M168 119C195 119 195 119 222 119C222 146.5 222 146.5 222 174C195 174 195 174 168 174C168 146.5 168 146.5 168 119Z" fill="#fffdfc" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M233 249C260 249 260 249 287 249C287 276 287 276 287 303C260 303 260 303 233 303C233 276 233 276 233 249Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M168 249C195 249 195 249 222 249C222 276 222 276 222 303C195 303 195 303 168 303C168 276 168 276 168 249Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M280.709 91.6842C301.275 109.178 301.275 109.178 321.841 126.672C304.347 147.238 304.347 147.238 286.853 167.804C266.287 150.31 266.287 150.31 245.721 132.816C263.215 112.25 263.215 112.25 280.709 91.6842Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
