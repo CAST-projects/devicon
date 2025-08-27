@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-aria-label="Twilio" role="img"
-viewBox="0 0 512 512">
-<rect
-width="512" height="512"
-rx="15%"
-fill="#ffffff"/>
-<g fill="#f22f46">
-<circle cx="256" cy="256" r="256"/>
-<circle cx="256" cy="256" fill="#ffffff" r="188"/>
-<circle cx="193" cy="193" r="53" id="c"/>
-<use xlink:href="#c" x="126"/>
-<use xlink:href="#c" y="126"/>
-<use xlink:href="#c" x="126" y="126"/>
-</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="512.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="512.0pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled">
+<g opacity="1">
+<path d="M256 0C114.615 0 0 114.615 0 256C0 397.385 114.615 512 256 512C397.385 512 512 397.385 512 256C512 114.615 397.385 0 256 0ZM256 68C359.83 68 444 152.17 444 256C444 359.83 359.83 444 256 444C152.17 444 68 359.83 68 256C68 152.17 152.17 68 256 68Z" fill="#f22f46" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M140 193C140 163.729 163.729 140 193 140C222.271 140 246 163.729 246 193C246 222.271 222.271 246 193 246C163.729 246 140 222.271 140 193Z" fill="#f22f46" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M266 193C266 163.729 289.729 140 319 140C348.271 140 372 163.729 372 193C372 222.271 348.271 246 319 246C289.729 246 266 222.271 266 193Z" fill="#f22f46" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M140 319C140 289.729 163.729 266 193 266C222.271 266 246 289.729 246 319C246 348.271 222.271 372 193 372C163.729 372 140 348.271 140 319Z" fill="#f22f46" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M266 319C266 289.729 289.729 266 319 266C348.271 266 372 289.729 372 319C372 348.271 348.271 372 319 372C289.729 372 266 348.271 266 319Z" fill="#f22f46" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
