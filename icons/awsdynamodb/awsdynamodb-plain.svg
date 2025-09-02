@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="640.0px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 640 640" width="640.0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="640" width="640" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="SVGRepo_iconCarrier">
+<g opacity="1">
+<path d="M402.509 638.895L410.278 638.895L537.084 575.484L539.194 572.501L539.194 66.3563L537.084 63.3578L410.278 0L402.414 0L402.509 638.895" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M237.489 638.895L229.612 638.895L102.914 575.484L100.343 571.062L99.0383 68.934L102.914 63.3578L229.612 0L237.586 0L237.489 638.895" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M232.278 0L405.971 0L405.971 638.895L232.278 638.895L232.278 0Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M603.46 305.094L599.175 304.144L537.992 298.439L537.084 298.891L410.165 293.815L229.835 293.815L102.914 298.891L102.914 202.107L102.781 202.178L102.914 201.895L229.835 172.486L410.165 172.486L537.084 201.895L583.742 226.695L583.742 210.75L603.46 208.593L601.418 204.612L538.986 159.969L537.084 160.587L410.165 121.259L229.835 121.259L102.914 160.587L102.914 63.3578L36.5398 141.117L36.5398 209.028L37.0536 208.656L56.258 210.75L56.258 227.023L36.5398 237.575L36.5398 305.147L37.0536 305.094L56.258 305.377L56.258 333.739L39.6889 333.987L36.5398 333.686L36.5398 401.284L56.258 411.888L56.258 428.348L37.3658 430.434L36.5398 429.814L36.5398 497.714L102.914 575.484L102.914 478.264L229.835 517.592L410.165 517.592L537.458 478.149L539.15 478.891L600.761 434.905L603.46 430.523L583.742 428.348L583.742 412.218L581.158 411.186L538.986 433.918L537.458 437.107L410.165 466.345L410.165 466.381L229.835 466.381L229.835 466.345L102.914 436.983L102.914 339.844L229.835 344.902L229.835 345.026L410.165 345.026L537.084 339.844L539.974 341.173L599.277 336.066L603.46 334.022L583.742 333.739L583.742 305.377L603.46 305.094" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M537.084 478.264L537.084 575.484L603.46 497.714L603.46 430.257L537.467 478.149L537.084 478.264" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M537.084 437.195L537.467 437.107L603.46 401.612L603.46 333.739L537.084 339.844L537.084 437.195" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M537.467 201.983L537.084 201.895L537.084 298.891L603.46 305.094L603.46 237.254L537.467 201.983" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+<path d="M537.467 160.968L603.46 208.593L603.46 141.134L537.084 63.3578L537.084 160.587L537.467 160.72L537.467 160.968" fill="none" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+</g>
+</g>
+</svg>
