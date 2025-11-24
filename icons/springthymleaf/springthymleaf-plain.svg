@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="32.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="32.0pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="32" width="32" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="springthymleaf">
+<g opacity="1">
+<path d="M1 0L1 31.8438L32.7812 31.8438L32.7812 0L1 0ZM28.0938 4.34375C25.6244 9.24548 23.7117 14.4631 20.5625 19C19.1513 21.0891 17.4621 23.1992 15.0312 24.125C13.295 24.8562 11.136 24.5561 9.75 23.25C8.9178 22.5561 9.0445 21.3552 9.53125 20.5C10.8057 18.8751 12.6549 17.8429 14.3125 16.6562C19.4117 13.1729 24.1784 9.14144 28.0938 4.34375ZM25.8438 6C22.5227 9.6501 18.699 12.8584 14.625 15.6562C12.8647 16.9556 10.8803 18.0702 9.34375 19.7812C8.88071 20.2231 8.56323 21.1674 8.625 21.75C7.79942 20.3661 7.56159 18.2759 8.28125 16.7812C8.98024 15.2015 10.5891 14.3938 12.0938 13.75C17.0791 11.9545 20.969 9.86233 25.8438 6Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
