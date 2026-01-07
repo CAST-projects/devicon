@@ -2,7 +2,7 @@ import os
 import json
 from os.path import expanduser
 
-folder_paths = ["./icons","./familyIcons","./genericIcons"]
+folder_paths = ["./icons"]
 
 for folder_path in folder_paths: # replace with the path to the folder you want to list
 
