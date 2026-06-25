@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Linearity Curve (http://linearity.io/curve) -->
+<svg height="100.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100.0pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="100" width="100" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1">
+<g opacity="1">
+<path d="M18.7512 54.3859L14.966 52.0949C12.592 50.6505 10.9028 49.227 9.8984 47.8241C8.89401 46.4213 8.39181 44.8068 8.39181 42.9806C8.39181 40.2414 9.34225 38.0168 11.2431 36.3068C13.144 34.5968 15.6135 33.7418 18.6516 33.7418C21.5569 33.7418 24.2214 34.5553 26.6452 36.1823L26.6452 41.8351C24.1384 39.4279 21.4406 38.2243 18.552 38.2243C16.925 38.2243 15.5886 38.602 14.5427 39.3573C13.4968 40.1127 12.9738 41.0797 12.9738 42.2585C12.9738 43.3043 13.3557 44.2838 14.1194 45.1969C14.883 46.11 16.1198 47.0646 17.8298 48.0607L21.6399 50.3019C25.8899 52.8253 28.0149 56.046 28.0149 59.964C28.0149 62.7531 27.081 65.0192 25.2133 66.7624C23.3457 68.5055 20.9177 69.3771 17.9294 69.3771C14.4929 69.3771 11.3635 68.3229 8.54123 66.2145L8.54123 59.8893C11.2307 63.2926 14.3435 64.9943 17.8796 64.9943C19.4402 64.9943 20.7392 64.5585 21.7768 63.6869C22.8144 62.8153 23.3332 61.7238 23.3332 60.4123C23.3332 58.2873 21.8059 56.2785 18.7512 54.3859Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M34.4934 34.1901L54.216 34.1901L54.216 38.6227L39.4738 38.6227L39.4738 49.2311L53.718 49.2311L53.718 53.6886L39.4738 53.6886L39.4738 64.4962L54.6892 64.4962L54.6892 68.9289L34.4934 68.9289L34.4934 34.1901Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M72.0998 33.9909L75.611 33.9909L91.175 68.9787L86.07 68.9787L81.4382 58.6691L66.6462 58.6691L62.2634 68.9787L57.1584 68.9787L72.0998 33.9909ZM79.3962 54.2365L73.7932 41.6359L68.5886 54.2365L79.3962 54.2365Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<text fill="#3b87d3" font-family="GillSans" font-size="24" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 415.883 228.072)" x="0" y="0">
+<tspan textLength="45.3867" x="0" y="22.0312"><![CDATA[Text]]></tspan>
+</text>
+</g>
+</svg>
