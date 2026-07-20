@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.969 76.969" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#A" x="6.484" y="6.484"/><symbol id="A" overflow="visible"><path d="M41.292 0v15.51H28.401c-7.859-.22-12.45 5.68-12.45 13.098v12.67H0v-8.728C.221 10.479 10.038 0 32.318 0zM0 63.987V48.036h12.891c7.859.22 12.009-5.019 12.009-12.45v-12.67h16.159v8.52c0 22.28-10.051 32.759-32.11 32.551z" stroke="none" fill="#236bb3"/></symbol></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Linearity Curve (http://linearity.io/curve) -->
+<svg height="32.0pt" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 32 32" width="32.0pt" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(29.0074 12.3128 -12.3128 29.0074 2.39696 9.84321)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#8e3cf7"/>
+<stop offset="0.2" stop-color="#8e3cf7"/>
+<stop offset="0.8" stop-color="#3cc1b6"/>
+<stop offset="1" stop-color="#3cc1b6"/>
+</linearGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="32" width="32" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1">
+<g opacity="1">
+<clipPath clip-rule="nonzero" id="ClipPath">
+<path d="M4 0L145.958 0L145.958 32L4 32L4 0Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M18.0217 13.3034C13.8496 12.2252 10.0178 10.862 10.0178 6.06567L4.00024 6.06567C4.00024 15.0633 9.87584 17.1916 15.7796 18.6968C19.9517 19.775 23.7835 20.7479 23.7835 25.9345L29.8011 25.9345C29.8011 16.8586 23.8409 14.8086 18.0217 13.3034Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M8.85388 31.9521L17.7095 31.9521C21.0299 31.9521 23.7835 29.3979 23.7835 25.9346L8.85388 25.9346L8.85388 31.9521Z" fill="#011f3d" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M24.9192 0.0480957L16.0917 0.0480957C12.7714 0.0480957 10.0178 2.60229 10.0178 6.06564L24.9192 6.06564L24.9192 0.0480957Z" fill="#011f3d" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</g>
+</svg>
